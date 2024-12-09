@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\delene\по-голямо\bin\Debug\по-голямо.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\delene\по-голямо\bin\Debug\по-голямо.exe
+C:\Users\1409-12\Desktop\Наталия 9а\delene\по-голямо\bin\Debug\по-голямо.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\delene\по-голямо\obj\Debug\по-голямо.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\delene\по-голямо\obj\Debug\по-голямо.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\delene\по-голямо\obj\Debug\по-голямо.exe
+C:\Users\1409-12\Desktop\Наталия 9а\delene\по-голямо\obj\Debug\по-голямо.pdb

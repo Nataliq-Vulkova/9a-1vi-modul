@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\Hokin\клюкарка\bin\Debug\клюкарка.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\Hokin\клюкарка\bin\Debug\клюкарка.exe
+C:\Users\1409-12\Desktop\Наталия 9а\Hokin\клюкарка\bin\Debug\клюкарка.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\Hokin\клюкарка\obj\Debug\клюкарка.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\Hokin\клюкарка\obj\Debug\клюкарка.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\Hokin\клюкарка\obj\Debug\клюкарка.exe
+C:\Users\1409-12\Desktop\Наталия 9а\Hokin\клюкарка\obj\Debug\клюкарка.pdb

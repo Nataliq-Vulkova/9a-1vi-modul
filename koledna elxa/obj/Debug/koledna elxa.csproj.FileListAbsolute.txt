@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\koledna elxa\bin\Debug\koledna elxa.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\koledna elxa\bin\Debug\koledna elxa.exe
+C:\Users\1409-12\Desktop\Наталия 9а\koledna elxa\bin\Debug\koledna elxa.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\koledna elxa\obj\Debug\koledna elxa.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\koledna elxa\obj\Debug\koledna elxa.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\koledna elxa\obj\Debug\koledna elxa.exe
+C:\Users\1409-12\Desktop\Наталия 9а\koledna elxa\obj\Debug\koledna elxa.pdb
